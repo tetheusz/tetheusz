@@ -1,6 +1,6 @@
 ### Oiii 👋
 
-- 🔭 Trabalho com infraestrutura de TI  
+- 🔭 Faço estágio de engenharia de software na Ford :) 
 - 🌱 Foco em JavaScript
 - 😄 Pronouns: tanto faz
 - ⚡ Fun fact: sou todos personagens de cabelo branco dos animes

@@ -1,7 +1,7 @@
 ### Oiii 👋
 
 - 🔭 Faço estágio de engenharia de software na Ford :) 
-- 🌱 Foco em BackEnd
+- 🌱 Estudante de web3
 - 😄 Pronouns: tanto faz
 - ⚡ Fun fact: sou todos personagens de cabelo branco dos animes
 
